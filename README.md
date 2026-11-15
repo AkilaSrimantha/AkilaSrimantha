@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Typing SVG Animation (AI/ML වගේ text එකක් මාරු වෙවී පේන්න) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=AI%2FML;Full-Stack+Developer;Software+Engineering+Undergraduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=AI%2FML;Full-Stack+Developer;Software+Engineering" alt="Typing SVG" />
 
   <!-- Social Media Badges -->
   <p>
